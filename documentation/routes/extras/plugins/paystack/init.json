@@ -1,0 +1,10 @@
+{
+    "name": "paystack",
+    "version": "1.6",
+    "display_name": "Paystack",
+    "description": "Payment with Paystack",
+    "author": "Bedigit",
+    "category": "payment",
+    "has_installer": true,
+    "item_id": "23722624"
+}
